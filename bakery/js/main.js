@@ -10,7 +10,7 @@ const badgeEl = document.querySelector("header .badges");
 
 window.addEventListener("scroll", function () {
   console.log(window.scrollY);
-  if (this.windeow.scrollY > 500) {
+  if (this.window.scrollY > 500) {
     //배지요소 숨기기
     gsap.to(badgeEl, 0.6, {
       opacity: 0,
