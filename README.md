@@ -1,2 +1,2 @@
 # bakery
-https://aquamarine-starburst-cd2627.netlify.app
+https://jazzy-gumdrop-0066a5.netlify.app/
