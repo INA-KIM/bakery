@@ -1,2 +1,2 @@
 # bakery
-https://jazzy-gumdrop-0066a5.netlify.app/
+https://curious-heliotrope-fa0ab6.netlify.app
